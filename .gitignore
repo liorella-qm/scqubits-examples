@@ -1,2 +1,5 @@
 /.idea/
 /examples/.ipynb_checkpoints/
+/.conda/
+/.vscode/
+/.DS_Store
